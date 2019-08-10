@@ -5,7 +5,7 @@ Sometimes you want to set `DocumentText` of `Browser` control without loading an
 In this example I'l show how you can set the base URL for html contents to resolve relative URLs.
 
 > **Important Debug Note**: To debug the application, disable `NotImplementedException` by going to Debug menu → Windows → Exception Settings → Search for System.NotImplementedException→ Clear the checkmark. Or if it throws exception, you can uncheck the exception in the exception window.
-> If you press <kbd>Ctrl</kbd>+<kbd>F5</kbd> you should now see any exception.
+> If you press <kbd>Ctrl</kbd>+<kbd>F5</kbd> you should not see any exception.
 
 
 ![Screenshot](image.png)
